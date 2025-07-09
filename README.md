@@ -4,7 +4,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=jinx197&count_private=true&show_icons=true&theme=synthwave&bg_color=0d1117&title_color=7A67EE&icon_color=FFD700&border_radius=15&custom_title=Star+Platinum's+Stats">
   </a>
   <a href="https://github.com/jinx197">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinx197&langs_count=8&theme=dracula&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=250&bg_color=0d1117&title_color=7A67EE&border_radius=15&custom_title=ORA+Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinx197&langs_count=8&theme=dracula&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=250&bg_color=0d1117&title_color=7A67EE&border_radius=15&custom_title=Languages">
   </a>
 </div>
 <br>
@@ -19,7 +19,7 @@
 </div>
 <div align="center">
   <h2> 
-    <img src="https://media.giphy.com/media/12zV7u6Bh0vHpu/giphy.gif" width="40"> ORA Development
+    <img src="https://media.giphy.com/media/12zV7u6Bh0vHpu/giphy.gif" width="40"> Development
   </h2>
   <img src="https://komarev.com/ghpvc/?username=jinx197&label=Star+Platinum+Witnesses&color=7A67EE&style=flat-square" alt="Profile views">
   <img src="https://img.shields.io/badge/Stand%20Power-★★★★★-7A67EE?style=flat-square" alt="Stand Power">
