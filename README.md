@@ -22,7 +22,7 @@
 </div>
 <div align="center">
   <h2> 
-    <img src="https://media.giphy.com/media/12zV7u6Bh0vHpu/giphy.gif" width="40"> ORA ORA Development
+    <img src="https://media.giphy.com/media/12zV7u6Bh0vHpu/giphy.gif" width="40"> ORA Development
   </h2>
   <img src="https://komarev.com/ghpvc/?username=jinx197&label=Star+Platinum+Witnesses&color=7A67EE&style=flat-square" alt="Profile views">
   <img src="https://img.shields.io/badge/Stand%20Power-★★★★★-7A67EE?style=flat-square" alt="Stand Power">
