@@ -53,4 +53,17 @@ journey
     section Next Goals
       Distributed Systems : 0: 2024
       AI Integration : 0: 2025
-<!-- 承太郎特色组件 --><div align="center"> <h2> <img src="https://media.giphy.com/media/12zV7u6Bh0vHpu/giphy.gif" width="40"> ORA ORA Development </h2> <!-- 动画徽章 --> <img src="https://komarev.com/ghpvc/?username=jinx197&label=Star+Platinum+Witnesses&color=7A67EE&style=flat-square" alt="Profile views" /> <img src="https://img.shields.io/badge/Stand%20Power-★★★★★-7A67EE?style=flat-square" alt="Stand Power"> <!-- 动态名言 --> <blockquote> <p align="center"> <img src="https://media.giphy.com/media/l0HlPwJwZb8l1Wx0c/giphy.gif" width="30"> <i>"I'm going to beat you to a pulp!"</i> <img src="https://media.giphy.com/media/l0HlPwJwZb8l1Wx0c/giphy.gif" width="30"> </p> </blockquote> </div><!-- 白金之星页脚 --><div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhwdmZ6cG9qZ2J0dWY5eHl1a2V5d3M1c2RlM3Z1c2V4c2s2d2R2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGo3B6VfWItTg2A/giphy.gif" width="100%"> </div> ```
+<div align="center"> 
+<h2> <img src="https://media.giphy.com/media/12zV7u6Bh0vHpu/giphy.gif" width="40"> ORA ORA Development </h2> 
+<!-- 动画徽章 --> <img src="https://komarev.com/ghpvc/?username=jinx197&label=Star+Platinum+Witnesses&color=7A67EE&style=flat-square" alt="Profile views" /> 
+<img src="https://img.shields.io/badge/Stand%20Power-★★★★★-7A67EE?style=flat-square" alt="Stand Power"> 
+<!-- 动态名言 --> 
+<blockquote> <p align="center"> <img src="https://media.giphy.com/media/l0HlPwJwZb8l1Wx0c/giphy.gif" width="30"> 
+<i>"I'm going to beat you to a pulp!"</i> 
+<img src="https://media.giphy.com/media/l0HlPwJwZb8l1Wx0c/giphy.gif" width="30"> </p> 
+</blockquote> 
+</div>
+<!-- 白金之星页脚 -->
+<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhwdmZ6cG9qZ2J0dWY5eHl1a2V5d3M1c2RlM3Z1c2V4c2s2d2R2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGo3B6VfWItTg2A/giphy.gif" width="100%"> 
+</div> 
+```
