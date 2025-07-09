@@ -28,11 +28,6 @@
 
 <br>
 
-<!-- 时间轴部分 -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="40"> Stand Timeline
-</h2>
-
 <!-- 承太郎特色组件 -->
 <div align="center">
   <h2> 
@@ -46,9 +41,7 @@
   <!-- 动态名言 -->
   <blockquote>
     <p align="center">
-      <img src="https://media.giphy.com/media/l0HlPwJwZb8l1Wx0c/giphy.gif" width="30">
       <i>"I'm going to beat you to a pulp!"</i>
-      <img src="https://media.giphy.com/media/l0HlPwJwZb8l1Wx0c/giphy.gif" width="30">
     </p>
   </blockquote>
 </div>
