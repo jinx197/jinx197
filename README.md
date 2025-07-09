@@ -8,9 +8,6 @@
   </a>
 </div>
 <br>
-<h2 align="center"> 
-  <img src="https://media.giphy.com/media/1n4SdKk8bY5vz5Q7va/giphy.gif" width="40"> Star Platinum Skills
-</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0d1117&color=7A67EE">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117&color=7A67EE">
